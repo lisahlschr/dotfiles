@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lisa.heilscher@gmx.de
+	name = Anna-Lisa Heilscher
